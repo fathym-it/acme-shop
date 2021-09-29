@@ -32,4 +32,5 @@ fields:
     maxSize: 64
   label: Image
 pages:
+- src/products/ArduinoNano.md
 - src/products/redShirt.md
