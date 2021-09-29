@@ -33,4 +33,4 @@ fields:
   label: Image
 pages:
 - src/products/ArduinoNano.md
-- src/products/redShirt.md
+- src/products/niclaSense.md
