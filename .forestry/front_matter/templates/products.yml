@@ -33,5 +33,6 @@ fields:
   label: Image
 pages:
 - src/products/ArduinoNano.md
+- src/products/MicroBit.md
 - src/products/PiModelB.md
 - src/products/niclaSense.md
