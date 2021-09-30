@@ -6,6 +6,6 @@ description: |+
 
   The Arduino Nano is the preferred board for many projects requiring a small and easy to use microcontroller board. The small footprint and low price, make the Nano Every particularly suited for wearable inventions, low cost robotics, electronic musical instruments, and general use to control smaller parts of a larger projects.
 
-image: "/uploads/abx00028_03-front_763x573.jpg"
+image: "/uploads/arduino.jpg"
 
 ---
