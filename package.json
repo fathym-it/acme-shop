@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/JackPenhale/tutorialLCU/issues"
   },
-  "homepage": "https://github.com/JackPenhale/tutorialLCU#readme",
+  "homepage": ".",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
   }
