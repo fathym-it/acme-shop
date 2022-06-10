@@ -20,5 +20,6 @@ module.exports = (config) => {
       dir: {
         input: 'src',
       },
+      pathPrefix: "/shop/"
     };
   };
