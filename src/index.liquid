@@ -9,10 +9,11 @@ layout: main.liquid
 <ul id="products">
   {% for product in collections.product %}
     <li>
-      <a href="{{ product.url }}">
+      <a href="{{ product.url | slice: 1, 100 }}">
         <img alt="" src="{{ product.data.image }}" />
 
         {{ product.data.name }}
+        {{product.url | slice: 1, 100}}
       </a>
 
       <p class="price">{{ product.data.price | money }}</p>
